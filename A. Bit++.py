@@ -6,4 +6,4 @@ for _ in range(n):
         x += 1
     else:
         x -= 1
-print(x)
+print(x) 
